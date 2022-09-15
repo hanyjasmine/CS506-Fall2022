@@ -2,6 +2,8 @@
 
 ## Objective
 
+## Project by: Gia Nguyen, Amy Seedhom, Hany Jasmine
+
 Build a city! The city will be printed out to the terminal (use python's `print()` function for this) and will have the following components:
 
 - School
