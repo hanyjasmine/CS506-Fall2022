@@ -1,3 +1,5 @@
 def draw_policestation():
-    print("police station not found")
+    print("police station below")
+    print("|||||||||||||||||||||||")
+    print("||||||||||||||||||||||||")
     return
