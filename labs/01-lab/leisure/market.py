@@ -1,3 +1,8 @@
 def draw_market():
-    print("market not found")
+    print("             |____|          |____|    ")
+    print("    |____|           |____|            ")
+    print("             \0/                0      ")
+    print("              |                /|\     ")
+    print("              /\                /\     ")
+    print("                                       ")
     return
